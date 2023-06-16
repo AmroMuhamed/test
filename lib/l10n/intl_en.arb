@@ -1,0 +1,14 @@
+{
+  "signup": "Sign Up",
+  "pleaseWait": "Please wait!",
+  "loading": "Loading",
+  "noDataFound": "No data found",
+  "ok": "OK",
+  "error": "error",
+  "required": "required",
+  "userNumber": "userNumber",
+  "password": "password",
+  "signin": "signin",
+  "createNewAccount": "createNewAccount",
+  "success": "success"
+}
